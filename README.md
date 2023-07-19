@@ -1,0 +1,2 @@
+# DPlayer-Danmaku-NodeJS-Minimalist_version_server
+这是一个DPlayer的弹幕后端，使用NodeJS的express封装的api，用于与MogoDB数据交换
